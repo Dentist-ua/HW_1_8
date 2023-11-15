@@ -1,0 +1,16 @@
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\bin\Debug\net7.0-windows\HW_1_8_3.exe
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\bin\Debug\net7.0-windows\HW_1_8_3.deps.json
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\bin\Debug\net7.0-windows\HW_1_8_3.runtimeconfig.json
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\bin\Debug\net7.0-windows\HW_1_8_3.dll
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\bin\Debug\net7.0-windows\HW_1_8_3.pdb
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.Form1.resources
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.csproj.GenerateResource.cache
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.dll
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\refint\HW_1_8_3.dll
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.pdb
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\HW_1_8_3.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\HW_1_8\HW_1_8_3\obj\Debug\net7.0-windows\ref\HW_1_8_3.dll

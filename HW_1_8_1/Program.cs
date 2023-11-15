@@ -4,8 +4,6 @@
 //Тобто може двома платежами по 300 і 400 грн. закрити весь обов'язок. Створіть метод, який як аргумент прийматиме суму платежу, введену економістом банку.
 //Метод виводить на екран інформацію про стан кредиту (сума заборгованості, сума переплати, повідомлення про відсутність боргу).
 
-using System.Globalization;
-
 int debet = -700;
 
 getStart:
@@ -87,5 +85,4 @@ static void CheckDebet(int debet)
 static void Exit()
 {
     Console.WriteLine("Thank you for choosing our bank. Goodbye");
-    
 }
